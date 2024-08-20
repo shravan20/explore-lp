@@ -1,4 +1,4 @@
-# Exploring linear programming
+# Exploring Linear Programming
 
 
 | **Module**                              | **Submodule**                                                                                                                                                                                                                                                                                                      | **Description**                                                  | **Suggested Course**                                          | **Time Required** | **Goal**                                                                                         | **Skill Level** | **Prerequisites**                                  | **Learning Outcome**                                         | **Task/Assignment**                                               | **Progress**  |
